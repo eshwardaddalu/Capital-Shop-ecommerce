@@ -1,2 +1,1 @@
-# ShopStore-ecommerce
 github training
