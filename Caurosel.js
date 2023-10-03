@@ -21,7 +21,8 @@ const CarouselScreen = () => {
                                     <Col className="col-spaninfo">
                                         <div>
                                             <h2 style={{ color: 'red' }}>Fashion Sale</h2>
-                                            <p className="label-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                                            <p className="label-text">Fashion is about something that comes from within you. Make a statement with our fashion that reflects your inner beauty. 
+                                                get fashionable. </p>
 
                                             <Button className="CheckButton">
                                                 Shop Now
